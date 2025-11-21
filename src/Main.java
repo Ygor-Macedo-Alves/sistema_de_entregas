@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 // ===========================================
 // CLASSE DE CONEXÃO COM O BANCO DE DADOS
 // ===========================================
-// banco de dados A3
+
 class DatabaseConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/connect_delivery?useSSL=false&serverTimezone=UTC";
     private static final String USER = "root"; // Altere para seu usuário MySQL
