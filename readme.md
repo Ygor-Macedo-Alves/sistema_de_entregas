@@ -5,3 +5,4 @@
 3. **Luigi Castro Bedin RA: 82526726**
 4. **Juliana Nogueira Ramos RA: 825230853**
  
+![img_3.png](img_3.png)
