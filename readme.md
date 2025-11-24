@@ -40,3 +40,6 @@ O programa é dividido em quatro módulos principais, com um foco central no con
    Entrada/Saída: Usa a classe Scanner e métodos auxiliares (lerString, lerInt, lerDouble) para receber dados do teclado (System.in) e imprime informações na tela (System.out.println).
    Gestão de Sessão: A classe Main utiliza variáveis de instância (clienteLogado, lojaAtiva, entregadorAtivo) para rastrear quem está usando o sistema, simulando uma sessão de login.
    Menu de Opções: O loop principal exibe um menu com números, permitindo que o usuário simule o fluxo de um Cliente (fazer pedido), uma Loja (acompanhar/mudar status) ou um Entregador (simular coleta e entrega).
+
+
+![img_4.png](img_4.png)
